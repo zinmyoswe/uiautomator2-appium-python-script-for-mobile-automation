@@ -1,0 +1,12 @@
+[2024-08-30 18:16:31,346: INFO/MainProcess] Connected to redis://localhost:6379/0
+[2024-08-30 18:16:31,374: INFO/MainProcess] mingle: searching for neighbors
+[2024-08-30 18:16:32,444: INFO/MainProcess] mingle: all alone
+[2024-08-30 18:16:32,582: INFO/MainProcess] celery@DESKTOP-RMSNNGU ready.
+[2024-08-30 18:16:37,379: INFO/SpawnPoolWorker-3] child process 12040 calling self.run()
+[2024-08-30 18:16:37,474: INFO/SpawnPoolWorker-1] child process 16588 calling self.run()
+[2024-08-30 18:16:37,506: INFO/SpawnPoolWorker-5] child process 19576 calling self.run()
+[2024-08-30 18:16:37,560: INFO/SpawnPoolWorker-6] child process 1440 calling self.run()
+[2024-08-30 18:16:37,594: INFO/SpawnPoolWorker-2] child process 18204 calling self.run()
+[2024-08-30 18:16:37,603: INFO/SpawnPoolWorker-4] child process 17304 calling self.run()
+[2024-08-30 18:16:37,610: INFO/SpawnPoolWorker-8] child process 10664 calling self.run()
+[2024-08-30 18:16:37,622: INFO/SpawnPoolWorker-7] child process 17956 calling self.run()
